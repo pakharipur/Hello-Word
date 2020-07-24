@@ -1,2 +1,8 @@
 Ini file teks yang dibuat di github
 awalnya berisi dua baris
+ditambah lagi 5 baris
+ini lanjutannya
+ini lanjutannya
+ini lanjutannya
+ini yang ke lima
+
